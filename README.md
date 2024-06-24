@@ -25,7 +25,7 @@ Tengo conocimientos en:
 Aunque no tengo experiencia laboral en el entorno del desarrollo, aspiro a introducirme pronto en el mercado laboral e integrarme a un equipo de trabajo. Poseo habilidades blandas, me integro fácilmente a grupos de trabajo y tengo experiencia en la aplicación práctica de metodologías ágiles, como Scrum y Kanban, para mejorar la eficiencia y la colaboración en los proyectos.
 
 ## 🌐 Encuéntrame en:
-- [LinkedIn][([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - [Twitter](https://twitter.com/tu-perfil)
 - [Portafolio](https://tu-portafolio.com)
 
