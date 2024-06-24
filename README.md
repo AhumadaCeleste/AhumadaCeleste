@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Celeste Ahumada
 
-<!--
-**AhumadaCeleste/AhumadaCeleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recibida en junio de 2024 como Técnica Superior en Desarrollo Web y App. Tengo conocimientos en:
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- Python
+- JavaScript
+- TypeScript
+- Node.js
+- MySQL
+- React
+- Metodologías ágiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente, trabajo en el proyecto **Data Wave**, una herramienta de gestión de datos para autoridades educativas.
+
+## 🌐 Encuéntrame en:
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- [Twitter](https://twitter.com/tu-perfil)
+- [Portafolio](https://tu-portafolio.com)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AhumadaCeleste&show_icons=true&theme=radical)
